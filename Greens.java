@@ -4,6 +4,7 @@ public class Greens {
         int b = 6;
         System.out.println("Hello students :)");
         System.out.println(a+b);
+        System.out.println(b-a);
         
     }
 }
